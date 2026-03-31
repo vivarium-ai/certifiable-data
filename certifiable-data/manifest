@@ -5,7 +5,7 @@ type: lib,binless
 language: c
 project: certifiable-data
 summary: Certifiable inference engine with deterministic behavior
-license: other: proprietary
+license: AGPL-3.0-or-later
 description-file: README.md
 url: https://github.com/SpeyTech/certifiable-data
 package-url: https://github.com/SpeyTech/certifiable-data/certifiable-data
